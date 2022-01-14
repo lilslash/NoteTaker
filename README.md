@@ -4,7 +4,7 @@
 
 a working server app that can take notes and save them allowing you to look back at them
 
-![screenshot](img\Note-Taker.png)
+![screenshot](img/Note-Taker.png)
 
 ## Table of contents
 
